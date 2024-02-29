@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.css';
+<link href="https://fonts.googleapis.com/css2?family=Lucida+Calligraphy&display=swap" rel="stylesheet"/>
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

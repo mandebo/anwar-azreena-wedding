@@ -1,24 +1,23 @@
 import logo from './logo.svg';
 import './App.css';
+import Frontphoto from './images/normal-front.png';
+import Backphoto from './images/normal-back.png';
+import Back from './components/Back';
+import Map from './components/Map';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="master shadow ">
+       <img src= { Frontphoto } />
+       <img src= { Backphoto } />
+       <Back/>
+       <Map/>
+       
     </div>
+
+   
   );
 }
 

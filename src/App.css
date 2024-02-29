@@ -1,38 +1,129 @@
-.App {
-  text-align: center;
+body {
+  background-color: #3B3B3B !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.master {
+  width: 30%;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: auto;
+  margin-top: 15px;
 }
 
-.App-link {
-  color: #61dafb;
+img {
+  width: 100%; 
+  height: auto; 
+  /* display: block;  */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+.form-invite
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Calligraphy', cursive;
+    font-weight: lighter;
+
+}
+
+.form-container
+{
+  position: relative;
+  
+}
+
+button{
+  font-weight: bold !important;
+
+}
+
+@media screen and (max-width: 281px) {
+  /* CSS properties to change when width is less than 1000px */
+  .form-invite {
+    font-size: 9px;
   }
 }
+
+
+@media screen and (max-width: 1024px) {
+  /* CSS properties to change when width is less than 1000px */
+  .master {
+    width: 100%; /* Set width to 100% for mobile view */
+    margin-top: 0px;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+  }
+
+  .form-invite btn{
+    font-weight: bold;
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width: 899px) {
+  .form-invite {
+    font-size: 20px;
+  }
+}
+
+
+
+@media screen and (min-width: 1010px) and (max-width: 1700) {
+
+  .form-invite {
+    font-size: 10px;
+  }
+}
+
+@media screen and (min-width: 1800px) and (max-width: 2499px)  {
+
+  .form-invite {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 2500px)  {
+
+  .form-invite {
+    font-size: 20px;
+  }
+}
+
+/* Ipad pro  */
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait)  {
+  .form-invite {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: landscape)  {
+  .master {
+    width: 50%;
+    justify-content: center;
+    margin: auto;
+    margin-top: 15px;
+  }
+
+  .form-invite {
+    font-size: 20px;
+  }
+}
+
+/* Ipad Mini */
+
+@media only screen and (width:1024px) and (resolution: 163dpi) {
+  .form-invite {
+    font-size: 15px;
+  }
+
+}
+
+
+
+
+
+
