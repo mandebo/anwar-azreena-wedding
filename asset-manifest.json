@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/anwar-wedding/static/css/main.76c0b966.css",
+    "main.js": "/anwar-wedding/static/js/main.9255be2e.js",
+    "static/js/453.816c5aa5.chunk.js": "/anwar-wedding/static/js/453.816c5aa5.chunk.js",
+    "static/media/normal-back.png": "/anwar-wedding/static/media/normal-back.a1aed283abcd807d1fbc.png",
+    "static/media/normal-front.png": "/anwar-wedding/static/media/normal-front.ac815b3eefa769016cd2.png",
+    "static/media/background-gig.png": "/anwar-wedding/static/media/background-gig.5c0f71c10e178e767b97.png",
+    "static/media/logo.svg": "/anwar-wedding/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/anwar-wedding/index.html",
+    "main.76c0b966.css.map": "/anwar-wedding/static/css/main.76c0b966.css.map",
+    "main.9255be2e.js.map": "/anwar-wedding/static/js/main.9255be2e.js.map",
+    "453.816c5aa5.chunk.js.map": "/anwar-wedding/static/js/453.816c5aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76c0b966.css",
+    "static/js/main.9255be2e.js"
+  ]
+}
