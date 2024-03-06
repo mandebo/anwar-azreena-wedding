@@ -46,7 +46,14 @@ button{
 @media screen and (max-width: 281px) {
   /* CSS properties to change when width is less than 1000px */
   .form-invite {
-    font-size: 9px;
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  /* CSS properties to change when width is less than 1000px */
+  .form-invite {
+    font-size: 14px;
   }
 }
 
