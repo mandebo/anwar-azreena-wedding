@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/digital-wedding-invitation/static/css/main.76c0b966.css",
-    "main.js": "/digital-wedding-invitation/static/js/main.72ea3cb9.js",
+    "main.css": "/digital-wedding-invitation/static/css/main.4ba30c66.css",
+    "main.js": "/digital-wedding-invitation/static/js/main.a2348ec1.js",
     "static/js/453.816c5aa5.chunk.js": "/digital-wedding-invitation/static/js/453.816c5aa5.chunk.js",
     "static/media/normal-back.png": "/digital-wedding-invitation/static/media/normal-back.a1aed283abcd807d1fbc.png",
     "static/media/normal-front.png": "/digital-wedding-invitation/static/media/normal-front.ac815b3eefa769016cd2.png",
     "static/media/background-gig.png": "/digital-wedding-invitation/static/media/background-gig.5c0f71c10e178e767b97.png",
     "static/media/logo.svg": "/digital-wedding-invitation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/digital-wedding-invitation/index.html",
-    "main.76c0b966.css.map": "/digital-wedding-invitation/static/css/main.76c0b966.css.map",
-    "main.72ea3cb9.js.map": "/digital-wedding-invitation/static/js/main.72ea3cb9.js.map",
+    "main.4ba30c66.css.map": "/digital-wedding-invitation/static/css/main.4ba30c66.css.map",
+    "main.a2348ec1.js.map": "/digital-wedding-invitation/static/js/main.a2348ec1.js.map",
     "453.816c5aa5.chunk.js.map": "/digital-wedding-invitation/static/js/453.816c5aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76c0b966.css",
-    "static/js/main.72ea3cb9.js"
+    "static/css/main.4ba30c66.css",
+    "static/js/main.a2348ec1.js"
   ]
 }
