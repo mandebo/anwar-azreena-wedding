@@ -16,7 +16,7 @@ const Back = () => {
     <div className='form-container'>
          <img src= { Backphoto } />
          <div className='form-invite'>
-           <p> Dengan segala hormatnya kami mempersilakan Dato'/Datin/Tuan/Puan/Encik/Cik Untuk
+           <p> Dengan segala hormatnya kami mempersilakan Dato'/Datin/Tuan/Puan/Encik/Cik seisi keluarga untuk
             mengesahkan kehadiran di pautan di bawah.
            </p>
            <button onClick={redirectGform} className='btn btn-warning'>Pengesahan</button>
